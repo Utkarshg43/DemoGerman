@@ -1,0 +1,17 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <color name="colorPrimary">#3F51B5</color>
+    <color name="colorPrimaryDark">#303F9F</color>
+    <color name="colorAccent">#FF4081</color>
+    <color name="appBackround">#FFFFFF</color>
+    <color name="black">#000000</color>
+    <color name="orange">#ff4211</color>
+    <color name="light_orange">#FC7112</color>
+    <color name="text_color">#000B5C</color>
+    <color name="blue">#0A60FF</color>
+    <color name="text_blue">#5999E7</color>
+    <color name="dark_blue">#2B5783</color>
+    <color name="trans_dialog">#99000000</color>
+    <color name="white">#FFFFFF</color>
+
+</resources>

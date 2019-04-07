@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">1a Prüfung die</string>
+    <string name="text1">Durch welches Organ konnen die Aktionare ihre Interessen einbringen?</string>
+    <string name="text_german">Lorem Ipsum ist einfach Dummy-Text der Druck- und Satzindustrie. Lorem Ipsum ist der Standard-Dummy-Text der Industrie seit den 1500er Jahren, als ein unbekannter Drucker eine Galeere von Typ nahm und ihn zu einem Typ-Musterbuch zusammenbaute.</string>
+    <string name="text2">Lorem Ipsum is simply dummy text of the printing and typesetting industry. Lorem Ipsum has been the industry standard dummy text ever since the 1500s, when an unknown printer took a galley of type and scrambled it to make a type specimen book. It has survived not only five centuries,</string>
+    <string name="zeig">zeig mir die antwort</string>
+
+    <string name="APP_URL_QUESTION">https://blessyprojects.com/loginapi/questionapi.php</string>
+    <string name="APP_URL_LOGIN">https://blessyprojects.com/loginapi/loginapi.php</string>
+    <string name="APP_URL_REGISTER">https://blessyprojects.com/loginapi/registerapi.php</string>
+    <string name="APP_URL_PLAN">https://blessyprojects.com/loginapi/planapi.php</string>
+    <string name="APP_URL_reset_password">https://blessyprojects.com/loginapi/reset_password.php</string>
+    <string name="APP_URL_ForgotPassword">https://blessyprojects.com/loginapi/forgetpassword.php</string>
+</resources>
